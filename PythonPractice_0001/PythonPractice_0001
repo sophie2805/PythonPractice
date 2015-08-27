@@ -2,7 +2,7 @@
 #! -*- coding:utf-8 -*-
 
 import random, string
-__author__ = 'Sophie'
+__author__ = 'Sophie2805'
 
 def randomSequence(r,l):
     s = string.letters + string.digits + '@#$%&*'
